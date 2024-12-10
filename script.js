@@ -1,4 +1,4 @@
-const BOT_TOKEN = "7717064320:AAH6s1JUjxXiunN8IZR8gIabTt4ydGwBV6I"; // Replace with your bot token
+const BOT_TOKEN = "7717064320:AAH6s1JUjxXiunN8IZR8gIabTt4ydGwBV6I";
 const API_URL = `https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`;
 const API_FILE_URL = `https://api.telegram.org/bot${BOT_TOKEN}/sendPhoto`;
 
